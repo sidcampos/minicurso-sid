@@ -26,3 +26,17 @@ main > section img {
     width: 300px;
 
 }
+
+main > section button {
+    background-color: #4169E1;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-family: euclidbold;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: -0.6px;
+    line-height: 20px;
+    text-transform: uppercase;
+    padding: 9px 23px;
+}
