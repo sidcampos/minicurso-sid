@@ -47,3 +47,12 @@ main > section button {
     list-style-type: none;
     width: 90%;
 }
+
+#detalhes-conteiner > li {
+    align-items: baseline;
+    display: flex;
+}
+
+#detalhes-conteiner > li p {
+    color: white;
+}
